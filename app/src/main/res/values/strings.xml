@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Filter points on the map</string>
+    <string name="map_title">Карта</string>
+    <string name="filter_title">Выбор Сервисов</string>
+    <string name="filter_apply">Применить</string>
+
+    <string name="coarse_location_permission_title">Разрешение примерного местоположения</string>
+    <string name="coarse_location_permission_description">Это разрешение необходимо для получения вашего приблизительного местоположения. Пожалуйста, предоставьте разрешение.</string>
+    <string name="coarse_location_permission_denied_description">Это разрешение необходимо для получения вашего приблизительного местоположения. Пожалуйста, предоставьте разрешение в настройках приложения.</string>
+
+    <string name="fine_location_permission_title">Разрешение на точное местоположение</string>
+    <string name="fine_location_permission_description">Это разрешение необходимо для получения вашего точного местоположения. Пожалуйста, предоставьте разрешение.</string>
+    <string name="fine_location_permission_denied_description">Это разрешение необходимо для получения вашего точного местоположения. Пожалуйста, предоставьте разрешение в настройках приложения.</string>
+
+    <string name="permission_dialog_go_to_app_settings">Перейти в настройки приложения</string>
+    <string name="permission_dialog_confirm">ОК</string>
+</resources>
